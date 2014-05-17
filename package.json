@@ -1,0 +1,26 @@
+{
+  "name": "co",
+  "version": "0.0.0",
+  "description": "**under development**",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "q": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjwudi/co.git"
+  },
+  "author": "John Wu <webmaster@leapoahead.com> (https://github.com/tjwudi)",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/tjwudi/co/issues"
+  },
+  "homepage": "https://github.com/tjwudi/co"
+}
