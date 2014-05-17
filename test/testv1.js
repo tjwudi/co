@@ -1,6 +1,6 @@
 "use strict";
 
-var co = require('../index'),
+var co = require('../v1'),
     Q = require('q');
 
 function runAsyncTask(id) {
